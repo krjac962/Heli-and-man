@@ -1,0 +1,12 @@
+C:\Users\krjac962\source\repos\Gamev1\Gamev1\obj\Debug\Gamev1.Form1.resources
+C:\Users\krjac962\source\repos\Gamev1\Gamev1\obj\Debug\Gamev1.Resources.resources
+C:\Users\krjac962\source\repos\Gamev1\Gamev1\obj\Debug\Gamev1.vbproj.GenerateResource.cache
+C:\Users\krjac962\source\repos\Gamev1\Gamev1\bin\Debug\Gamev1.exe.config
+C:\Users\krjac962\source\repos\Gamev1\Gamev1\bin\Debug\Gamev1.exe
+C:\Users\krjac962\source\repos\Gamev1\Gamev1\bin\Debug\Gamev1.pdb
+C:\Users\krjac962\source\repos\Gamev1\Gamev1\bin\Debug\Gamev1.xml
+C:\Users\krjac962\source\repos\Gamev1\Gamev1\obj\Debug\Gamev1.exe
+C:\Users\krjac962\source\repos\Gamev1\Gamev1\obj\Debug\Gamev1.xml
+C:\Users\krjac962\source\repos\Gamev1\Gamev1\obj\Debug\Gamev1.pdb
+C:\Users\krjac962\source\repos\Gamev1\Gamev1\obj\Debug\Gamev1.SplashScreen1.resources
+C:\Users\krjac962\source\repos\Gamev1\Gamev1\obj\Debug\Gamev1.vbprojAssemblyReference.cache
